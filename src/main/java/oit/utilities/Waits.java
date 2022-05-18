@@ -1,4 +1,4 @@
-package utilities;
+package oit.utilities;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
